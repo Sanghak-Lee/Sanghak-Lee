@@ -9,14 +9,16 @@
 </div>
 
 <div align="center">
-
-You have finally discovered my Github profile. <br>
+    
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/Sanghak-Lee/Sanghak-Lee/issues/new"><b>here</b></a><br>
-or <a href="mailto:eaa0305@naver.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-
+Ask me anything <a href="https://github.com/Sanghak-Lee/Sanghak-Lee/issues/new"><b>here</b></a>
+    
+<i>There are 5 pinned repositories</i> 😊
+    <i>Docker-compose + Elasticbeanstalk (Amazon linux2)</i><p>classic_Docker-compose-Elasticbeanstalk_amazonlinux2</p>
+    <i>Docker-compose + EC2 (Amazon linux2)</i><p>classic_docker-compose_amazonlinux2-</p>
+    <i>Docker-compose + EC2 (Ubuntu)</i><p>classic_docker-compose_ubuntu</p>
+    <i>                 Elasticbeanstalk (Amazon linux2)</i><p>classic_elasticbeanstalk_amazonlinux2</p>
+    <i>DRF + Elasticbeanstalk (Amazon linux2)</i><p>classic_DRF</p>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanghak-Lee <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
@@ -24,24 +26,17 @@ or <a href="mailto:eaa0305@naver.com"><b>email</b></a> me
 
 - 📫 How to reach me: **eaa0305@naver.com**
 
-<h3 align="center">Connect with me:</h3>
 <div align="center">
-
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-    <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
