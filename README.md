@@ -13,12 +13,12 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/Sanghak-Lee/Sanghak-Lee/issues/new"><b>here</b></a>
     
-<i>There are 5 pinned repositories</i> 😊<br>
-    <i>Docker-compose + Elasticbeanstalk (Amazon linux2)</i><p>classic_Docker-compose-Elasticbeanstalk_amazonlinux2</p><br>
-    <i>Docker-compose + EC2 (Amazon linux2)</i><p>classic_docker-compose_amazonlinux2-</p><br>
-    <i>Docker-compose + EC2 (Ubuntu)</i><p>classic_docker-compose_ubuntu</p><br>
-    <i>                 Elasticbeanstalk (Amazon linux2)</i><p>classic_elasticbeanstalk_amazonlinux2</p><br>
-    <i>DRF + Elasticbeanstalk (Amazon linux2)</i><p>classic_DRF</p><br>
+<i>There are 5 pinned repositories</i> 😊<br><br>
+    <p><i>Docker-compose + Elasticbeanstalk (Amazon linux2) --> </i>classic_Docker-compose-Elasticbeanstalk_amazonlinux2</p><br>
+    <p><i>Docker-compose + EC2 (Amazon linux2) --> </i>classic_docker-compose_amazonlinux2-</p><br>
+    <p><i>Docker-compose + EC2 (Ubuntu) --> </i>classic_docker-compose_ubuntu</p><br>
+    <p><i>                 Elasticbeanstalk (Amazon linux2) --> </i>classic_elasticbeanstalk_amazonlinux2</p><br>
+    <p><i>DRF + Elasticbeanstalk (Amazon linux2) --> </i>classic_DRF</p><br>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanghak-Lee <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
