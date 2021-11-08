@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/Sanghak-Lee/Sanghak-Lee/issues/new">
     <p><i>DRF + Elasticbeanstalk (Amazon linux2) --> </i>classic_DRF</p><br>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sanghak-Lee <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi, I'm Sanghak-Lee </h1>
 <h3 align="center">A passionate Python developer from Korea, Seoul</h3>
 
 - 📫 How to reach me: **eaa0305@naver.com**
