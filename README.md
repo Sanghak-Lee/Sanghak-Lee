@@ -12,9 +12,7 @@
     
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://www.notion.so/Lee-Sanghak-e03584f226f44daea81ccb1b25b5b81b?pvs=4)"><b>이상학 Notion Profile</b></a>
-    
-    <a href="https://www.notion.so/Lee-Sanghak-e03584f226f44daea81ccb1b25b5b81b?pvs=4"></a>
-    
+        
 <i>There are 5 pinned repositories</i> 😊<br><br>
     <p><i>Docker-compose + Elasticbeanstalk (Amazon linux2) --> </i>classic_Docker-compose-Elasticbeanstalk_amazonlinux2</p><br>
     <p><i>Docker-compose + EC2 (Amazon linux2) --> </i>classic_docker-compose_amazonlinux2-</p><br>
