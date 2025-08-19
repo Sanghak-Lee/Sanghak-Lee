@@ -1,5 +1,5 @@
 <div align="center">
-<h2><a href="https://www.notion.so/12655b33e3ba803bbcb5f8880b8d8763?pvs=4">이상학의 개발이력서, Notion을 방문해주세요</a></h2>
+<h2><a href="https://perpetual-lemur-53a.notion.site/1b155b33e3ba8023ba64e56d9232190a?pvs=74">이상학의 개발이력서, Notion을 방문해주세요</a></h2>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
